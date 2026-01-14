@@ -1,4 +1,29 @@
 # visualisator_project 
+
+## РАСПРЕДЕЛЕНИЕ РАБОТЫ
+
+### Дудин Артем 501690 
+- Архитектура проекта
+- main
+- data loader
+- config
+- utils
+
+### Горнак Глеб 501152
+- dynamic sales
+- category analysis
+
+### Насенников Максим 501125
+- interface
+- geo analysis
+
+### Черник Полина 502670
+- revenue time
+- customer analysis
+
+### ССЫЛКА НА ВИДЕООТЧЕТ
+https://drive.google.com/drive/folders/1Fbu7FelSSKpBtsgAL9Q5l-wVRmBIHt4x?usp=sharing
+
 # ВИЗУАЛИЗАТОР ПРОДАЖ
 
 ## ОПИСАНИЕ
@@ -116,26 +141,4 @@
 - Возможность многократного построения графиков без перезапуска
 - Сохранение состояния данных между сеансами анализа
 
-## РАСПРЕДЕЛЕНИЕ РАБОТЫ
 
-### Дудин Артем 501690 
-- Архитектура проекта
-- main
-- data loader
-- config
-- utils
-
-### Горнак Глеб 501152
-- dynamic sales
-- category analysis
-
-### Насенников Максим 501125
-- interface
-- geo analysis
-
-### Черник Полина 502670
-- revenue time
-- customer analysis
-
-### ССЫЛКА НА ВИДЕООТЧЕТ
-https://drive.google.com/drive/folders/1Fbu7FelSSKpBtsgAL9Q5l-wVRmBIHt4x?usp=sharing
