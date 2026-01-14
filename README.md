@@ -13,7 +13,7 @@
 - dynamic sales
 - category analysis
 
-### Насенников Максим 501125
+### Насенников Максим 501497
 - interface
 - geo analysis
 
